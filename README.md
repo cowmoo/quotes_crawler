@@ -1,0 +1,1 @@
+Yet another quote collector, a straight-forward quote collector that crawls Yahoo Finance using YQL and stores the quotes in MongoDB. The only difference is that it crawls for options data instead of equity.
